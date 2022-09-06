@@ -1,0 +1,36 @@
+
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="Actividad 6.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div class = "left"; id="header">
+			<h1 id="name">Kevin Ortiz</p>
+			<a href="mailto:kevinor03@gmail.com"><p id="email">kevinor03@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objetivo</h4>
+			<p clase = "p1">Posicionarme como ingeniero en sistemas.</p>
+			<h4>Experiencia</h4>
+			<p>Desarrollador Junior, Empresa de Software (2010 - A la fecha)</p>
+			<ul>
+				<li>Diseño e implementación de funcionalidades para usuarios finales de producto líder</li>
+				<li>Escribí bibliotecas JavaScript y Ruby de terceros</li>
+			</ul>
+			<h4>Habilidades</h4>
+			<p>Lenguajes: C#, JavaScript, Python, Ruby</p>
+			<p>Frameworks: .NET, Node.js, Django, Ruby on Rails</p>
+			<h4>Estudios</h4>
+			<p>Licenciatura en Economía, Mi universidad</p>
+			<ul>
+				<li>Premio al mejor trabajo de grado</li>
+				<li>Promedio Académico: 8.8</li>
+			</ul>
+		</div>
+		<div class = "right"; id="footer">
+			<p>Hernandarias 3522, Santa Fe, Santa Fe, Tel.: (0342) 463-6751 </p>
+		</div>
+</body>
+</html>
